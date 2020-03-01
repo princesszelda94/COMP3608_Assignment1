@@ -2,7 +2,7 @@
 
 ## Group Members
 
-### Name      ID Numbers 
+### Name      | ID Numbers 
 Emilo Gopaul - 816007034
 
 Gabriela Sewdhan - 813001696
